@@ -1,0 +1,66 @@
+---
+abstract: 'The great new Task::BeLike::CMCKAY!'
+author:
+  - 'Christopher Mckay, C<< <chris at potatolan.com> >>'
+  - 'Christopher Mckay <chris@potatolan.com>'
+build_requires:
+  ExtUtils::MakeMaker: 6.42
+  Test::More: 0
+configure_requires:
+  ExtUtils::MakeMaker: 6.42
+distribution_type: module
+generated_by: 'Module::Install version 1.00'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Task-BeLike-CMCKAY
+no_index:
+  directory:
+    - inc
+    - t
+requires:
+  App::Ack: 0
+  App::Whiff: 0
+  App::cpanminus: 0
+  CPAN::Mini: 0
+  CPAN::Mini::Webserver: 0
+  DBD::Pg: 0
+  DBD::SQLite: 0
+  DBD::mysql: 0
+  DBIx::Class: 0
+  DBIx::Class::Schema::Loader: 0
+  DateTime: 0
+  Devel::NYTProf: 0
+  Dist::Zilla: 0
+  Email::Stuff: 0
+  JSON::Any: 0
+  LWP: 0
+  List::AllUtils: 0
+  Log::Log4perl: 0
+  Method::Signatures: 0
+  Module::Build: 0
+  Module::Install: 0
+  Moose: 0
+  Moose::Autobox: 0
+  MooseX::Declare: 0
+  MooseX::Types::Common: 0
+  MooseX::Types::DateTime: 0
+  MooseX::Types::Email: 0
+  MooseX::Types::LoadableClass: 0
+  MooseX::Types::Path::Class: 0
+  MooseX::Types::URI: 0
+  Path::Class: 0
+  Perl::Tidy: 0
+  Pod::Weaver: 0
+  Task::Catalyst: 0
+  Term::ReadLine::Perl: 0
+  Test::Most: 0
+  Try::Tiny: 0
+  YAML::Any: 0
+  autobox: 0
+  autodie: 0
+  local::lib: 0
+resources:
+  license: http://dev.perl.org/licenses/
+version: 0.01
